@@ -1,4 +1,5 @@
 import { Component, OnInit } from "@angular/core";
+import { Router }  from '@angular/router';
 
 
 
@@ -8,9 +9,15 @@ import { Component, OnInit } from "@angular/core";
     templateUrl: "./login.component.html",
 })
 export class loginComponent implements OnInit {
-    constructor(){}
+    constructor(private router : Router){  }
 
     
+
+    goToSingUp (){
+
+this.router.navigate (['singup']);
+
+    }
 
     ngOnInit(): void {
        

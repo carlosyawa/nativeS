@@ -1,0 +1,1 @@
+/Users/desarrollo/Documents/Carlos/NativeScript/PrimerApp/platforms/android/app/src/main/assets/metadata

@@ -1,0 +1,4 @@
+#Tue May 22 11:28:29 CDT 2018
+base.0=/Users/desarrollo/Documents/Carlos/NativeScript/login-project/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -6,5 +6,6 @@
         "**/*.js.map" : {
             "when": "$(basename)"
         }
-    }
+    },
+    "git.ignoreLimitWarning": true
 }

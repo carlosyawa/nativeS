@@ -1,4 +1,4 @@
-#Mon May 21 13:02:27 CDT 2018
+#Tue May 22 09:16:13 CDT 2018
 base.0=/Users/desarrollo/Documents/Carlos/NativeScript/PrimerApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

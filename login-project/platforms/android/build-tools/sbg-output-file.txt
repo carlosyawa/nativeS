@@ -1,0 +1,1 @@
+/Users/desarrollo/Documents/Carlos/NativeScript/login-project/platforms/android/app/src/main/java

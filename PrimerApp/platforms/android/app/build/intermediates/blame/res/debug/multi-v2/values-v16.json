@@ -4,7 +4,7 @@
             "outputFile": "/Users/desarrollo/Documents/Carlos/NativeScript/PrimerApp/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/desarrollo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/c54a799893e152a680577e764fc97f62/res/values-v16/values-v16.xml",
+                    "source": "/Users/desarrollo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/28d036b43b0ef9dda2f502fe58645d9a/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -26,7 +26,7 @@ export class RegisterComponent {
             ApplicationSettings.setString("account", JSON.stringify(this.input));
             this.location.back();
         } else {
-            (new SnackBar()).simple("All Fields Required!");
+            (new SnackBar()).simple("Todos los campos son requeridos!");
         }
     }
 
